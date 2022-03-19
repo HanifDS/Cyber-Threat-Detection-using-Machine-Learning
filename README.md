@@ -21,4 +21,4 @@ Results:
 
 The second pipeline using Adaboost and Fclassif was the most succesful with a **96% accuracy** and a **time to build of 0.14 seconds**.
 
-This project was given a **Distinction**. 
+This project was awarded a **Distinction**. 
