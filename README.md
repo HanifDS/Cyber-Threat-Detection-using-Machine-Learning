@@ -11,7 +11,7 @@ The modelling data was done by using a reduced CLS portion of the Aegean Wi-Fi I
 This was a complete end to to end project where a dataset was taken and and a workflow completed, consisting of:
 
 1) EDA
-2) Feature Generation using Neural Networks/PCA
+2) Feature Generation using a Neural Network Autoencoder and a PCA
 3) Feature selection
 4) Cross Validation of different algorithms
 5) Evaluations through pipelines.
